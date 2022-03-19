@@ -8,3 +8,6 @@ Repositório do projeto da aula de Ciência de Dados, ministrada pelo professor 
 ## Dataset
 
 O conjunto de dados mostra estatísticas detalhadas de animais abrigados no [Austin Animal Center](http://www.austintexas.gov/department/animal-services), um abrigo de animais localizado em Austin, Texas, EUA.
+
+## Auxiliado por:
+[Pablo Dantas](https://github.com/opablodantas)
